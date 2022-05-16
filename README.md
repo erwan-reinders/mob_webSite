@@ -1,2 +1,2 @@
-# mob_webSite
+# Mobile website
 Web site repository for mobile project
